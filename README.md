@@ -1,5 +1,3 @@
-# Hosting-wordPress
-Hosted a wordPress app on AWS
 ---
 
 # WordPress Deployment on AWS using EC2 and Other AWS Services
